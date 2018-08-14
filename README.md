@@ -1,2 +1,2 @@
-# hello-world
-Repositório de Teste
+# Laboratório de Ensino em Python
+Repositório LabPy
